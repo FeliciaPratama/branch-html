@@ -17,3 +17,4 @@ working folder : folder berisi file dan folder tempat kita bekerja. Biasanya wor
 staging area : snapshot dari working folder yang akan kita simpan pada saat commit. Ini adalah fitur unik Git yang tidak dimiliki version control lain. Dengan adanya staging area, kita bisa memilih perubahan mana yang akan di-commit dan mana yang tidak.
 
 object store : ini adalah database tempat semua commit disimpan
+
